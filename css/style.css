@@ -1,0 +1,26 @@
+.sem-logo{
+    padding-top: 10px;
+    font-size: 3.5rem;
+    color: white;
+    font-weight: 600;
+}
+.srm-title h3{
+    line-height: 0.9 !important ;
+}
+/* .overlay{
+    background-color: rgba(56, 27, 27, 0.9);
+    z-index: 10;
+} */
+#home h3{
+    color: white;
+    text-shadow: .05rem .08rem .4rem rgb(44, 44, 44);
+}
+
+.divider-wrapper a{
+    text-decoration: none;
+    color: white;
+}
+
+.main::-webkit-scrollbar {
+    display: none;
+  }
