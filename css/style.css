@@ -24,3 +24,15 @@
 .main::-webkit-scrollbar {
     display: none;
   }
+@media only screen and (min-width: 768px) {
+  .srm-title{
+    position: relative;
+    left: -350px;
+  }
+}
+
+@media only screen and (max-width: 920px){
+    .hello{
+        display: none;
+    }
+}
